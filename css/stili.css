@@ -1,0 +1,41 @@
+body{font-family: verdana;}
+.phpcoding{
+	background-color: #f8f9fa;
+}
+.headeroption{
+
+}
+.headeroption h2{
+	color: grey;
+	text-align: center;
+}
+.mainoption{
+
+}
+.myform{
+
+}
+input[type="submit"],input[type="file"]{
+	cursor: pointer;
+}
+.success{
+	color: green;
+	font-size: 18px;
+	display: block;
+	margin-top: 10px;
+}
+.error{
+	color: red;
+	font-size: 18px;
+	display: block;
+	margin-top: 10px;
+}
+.image_table{
+	width:100px;
+	height: 100px;
+}
+.footeroption{
+	background-color: black;
+	color: white;
+	text-align: center;
+}
